@@ -172,6 +172,7 @@ public class ViewDoc extends javax.swing.JFrame {
         jButton5.setBackground(new java.awt.Color(153, 153, 255));
         jButton5.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         jButton5.setForeground(new java.awt.Color(0, 0, 0));
+        jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/exit ico.png"))); // NOI18N
         jButton5.setText("exit");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -182,6 +183,7 @@ public class ViewDoc extends javax.swing.JFrame {
         jButton7.setBackground(new java.awt.Color(153, 153, 255));
         jButton7.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         jButton7.setForeground(new java.awt.Color(0, 0, 0));
+        jButton7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/printer.png"))); // NOI18N
         jButton7.setText("Print");
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

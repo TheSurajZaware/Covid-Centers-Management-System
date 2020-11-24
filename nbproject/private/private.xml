@@ -5,14 +5,16 @@
         <group>
             <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Main.java</file>
             <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Patient.java</file>
-            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/About.java</file>
-            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Doctor.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Set.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/ViewDoc.java</file>
             <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Prescription.java</file>
             <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Login.java</file>
             <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Test.java</file>
-            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Appoinment.java</file>
-            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/ViewPrescription.java</file>
-            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Inventory.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/changeU.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/ChangeP.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/User.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Viewappoinment.java</file>
+            <file>file:/C:/Users/Suraj/Documents/NetBeansProjects/Covid%20Centers%20Managment%20System/src/Item.java</file>
         </group>
     </open-files>
 </project-private>

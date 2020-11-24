@@ -258,7 +258,6 @@ public class About extends javax.swing.JFrame {
 
         jButton18.setBackground(new java.awt.Color(204, 204, 255));
         jButton18.setForeground(new java.awt.Color(204, 204, 255));
-        jButton18.setIcon(new javax.swing.ImageIcon("C:\\Users\\Suraj\\Downloads\\Webp.net-resizeimage.png")); // NOI18N
         jButton18.setBorder(null);
         jButton18.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -269,6 +268,7 @@ public class About extends javax.swing.JFrame {
         jButton1.setBackground(new java.awt.Color(153, 153, 255));
         jButton1.setFont(new java.awt.Font("Arial Black", 1, 16)); // NOI18N
         jButton1.setForeground(new java.awt.Color(0, 0, 0));
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/back ico.png"))); // NOI18N
         jButton1.setText("Back");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

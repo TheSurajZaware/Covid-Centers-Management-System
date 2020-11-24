@@ -172,6 +172,7 @@ public class ViewPrescription extends javax.swing.JFrame {
         jButton10.setBackground(new java.awt.Color(153, 153, 255));
         jButton10.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         jButton10.setForeground(new java.awt.Color(0, 0, 0));
+        jButton10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/inventory.png"))); // NOI18N
         jButton10.setText("Inventory");
         jButton10.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -182,6 +183,7 @@ public class ViewPrescription extends javax.swing.JFrame {
         jButton4.setBackground(new java.awt.Color(153, 153, 255));
         jButton4.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         jButton4.setForeground(new java.awt.Color(0, 0, 0));
+        jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/exit ico.png"))); // NOI18N
         jButton4.setText("exit");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -192,6 +194,7 @@ public class ViewPrescription extends javax.swing.JFrame {
         jButton7.setBackground(new java.awt.Color(153, 153, 255));
         jButton7.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         jButton7.setForeground(new java.awt.Color(0, 0, 0));
+        jButton7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/printer.png"))); // NOI18N
         jButton7.setText("Print");
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

@@ -75,7 +75,6 @@ public class Set extends javax.swing.JFrame {
 
         jButton14.setBackground(new java.awt.Color(204, 204, 255));
         jButton14.setForeground(new java.awt.Color(204, 204, 255));
-        jButton14.setIcon(new javax.swing.ImageIcon("C:\\Users\\Suraj\\Downloads\\Webp.net-resizeimage.png")); // NOI18N
         jButton14.setBorder(null);
         jButton14.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -139,6 +138,7 @@ public class Set extends javax.swing.JFrame {
         jButton2.setBackground(new java.awt.Color(153, 153, 255));
         jButton2.setFont(new java.awt.Font("Arial Black", 1, 30)); // NOI18N
         jButton2.setForeground(new java.awt.Color(0, 0, 0));
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/exit ico.png"))); // NOI18N
         jButton2.setText("Exit");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
