@@ -8,7 +8,7 @@ Password  =         Admin
 
 
 Database file provide with this Setup
-first setup database and then install this this Softwre!!!!
+first setup database and then install this this Software!!!!
 
 Process To Setup Database
 
