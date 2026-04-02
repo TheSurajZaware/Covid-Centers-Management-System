@@ -240,9 +240,3 @@ If you extend the project with a web or mobile front end, a future layer could e
 
 No `LICENSE` file is included in this repository. **Add a license** (e.g., MIT, Apache-2.0, or “All Rights Reserved”) to clarify how others may use or contribute to the code.
 
----
-
-<p align="center">
-  <b>Covid Centers Management System</b><br/>
-  <a href="https://github.com/TheSurajZaware/Covid-Centers-Management-System">github.com/TheSurajZaware/Covid-Centers-Management-System</a>
-</p>
